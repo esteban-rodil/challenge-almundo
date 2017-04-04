@@ -2,6 +2,10 @@
 
 ## Challenge de Almundo
 
+### Diagramas UML
+Los diagramas UML se encuentran en la carpeta docs.
+Los hice a mano y luego les saqué una foto ya que no sabía que programa iban a usar ustedes para abrirlo y porque hacerlo en word me hubiera tomado más tiempo que hacerlos a mano.
+
 ### Resolución de puntos extra
 
 * **Dar alguna solución sobre qué pasa con una llamada cuando no hay ningún empleado libre**
